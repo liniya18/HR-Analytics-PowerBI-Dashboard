@@ -33,3 +33,7 @@ This project analyzes employee attrition and workforce trends using Power BI.
 - DAX
 - Business Intelligence
 - Data Storytelling
+
+## 👩‍💻 Author
+
+Liniya
